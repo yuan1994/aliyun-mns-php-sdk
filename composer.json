@@ -1,0 +1,20 @@
+{
+    "name": "yuan1994/aliyun-mns-php-sdk",
+    "type": "library",
+    "description": "阿里云官方MNS消息服务PHP SDK",
+    "keywords": ["aliyun", "mns", "php", "sdk"],
+    "homepage": "https://help.aliyun.com/document_detail/32381.html?spm=5176.doc51929.6.669.oIPLtb",
+    "license": "Apache-2.0",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "AliyunMNS\\tests\\": "vendor/yuan1994/aliyun-mns-php-sdk/tests",
+            "AliyunMNS\\": "vendor/yuan1994/aliyun-mns-php-sdk/src"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8"
+    }
+}

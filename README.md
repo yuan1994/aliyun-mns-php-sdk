@@ -1,0 +1,1 @@
+阿里云MNS短信服务PHP SDK：[https://help.aliyun.com/document_detail/32381.html?spm=5176.doc51929.6.669.oIPLtb](https://help.aliyun.com/document_detail/32381.html?spm=5176.doc51929.6.669.oIPLtb)
